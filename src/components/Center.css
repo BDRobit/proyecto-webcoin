@@ -1,0 +1,42 @@
+
+
+.Header {
+    background-color: aqua;
+    
+}
+
+.h-1{
+    background-color: aquamarine;
+    padding: 5px;
+    
+}
+.row{
+    background-color: gray;   
+    width: 18rem;
+    border: 2px solid; 
+}
+
+.img{       
+    width: 5rem;
+    padding-top: 0.5rem;
+    
+}
+.foto{
+    background-color: white;
+    width: 7rem;
+    height: 7rem;    
+    
+}
+
+.otro{
+    border: 2px solid; 
+
+}
+
+
+
+.card-body{
+    width: 18rem;
+
+
+}
