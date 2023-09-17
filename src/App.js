@@ -7,21 +7,16 @@ import Center from './components/Center';
 
 function App() {
   return (
-    <div className="App">
+ 
+    <div className="App"> 
+        <Header />
       <header className="App-header">
-        <h1>Hola</h1>
         
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Hola</h1>
+        <Center />
+        
+       
+       
       </header>
     </div>
   );
