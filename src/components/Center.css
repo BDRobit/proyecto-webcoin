@@ -1,42 +1,36 @@
 
 
+
+
+.h-1{
+    background-color: red;
+    padding: 5px;
+    
+}
+
+
 .Header {
     background-color: aqua;
     
 }
 
-.h-1{
-    background-color: aquamarine;
-    padding: 5px;
-    
-}
-.row{
-    background-color: gray;   
-    width: 18rem;
-    border: 2px solid; 
-}
 
-.img{       
-    width: 5rem;
-    padding-top: 0.5rem;
-    
-}
-.foto{
+
+
+
+.otross{
+    border: 2px solid; 
     background-color: white;
     width: 7rem;
-    height: 7rem;    
-    
-}
-
-.otro{
+    height: 7rem;
+       width: 5rem;
+    padding-top: 0.5rem;  
+    width: 18rem;
+        background-color: gray;   
+    width: 18rem;
     border: 2px solid; 
 
-}
-
-
-
-.card-body{
-    width: 18rem;
-
 
 }
+
+
